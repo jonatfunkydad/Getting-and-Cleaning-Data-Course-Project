@@ -14,7 +14,9 @@ README.md - This file.
 Steps
 
 To understand this project, the steps taken in the analysis, and the output file, read:
+
 1 - CodeBook.md
+
 2 - run_analysis.R script 
 
 Download experiment data and extract to a UCI HAR Dataset folder in the project directory.
