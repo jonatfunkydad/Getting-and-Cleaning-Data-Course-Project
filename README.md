@@ -3,7 +3,7 @@ Getting And Cleaning Data Week 4 Course Project
 
 Contents
 
-CodeBook.md - Describes the experiment data and the steps taken to summarize the data.
+Code Book.docx - Describes the experiment data and the steps taken to summarize the data.
 
 run_analysis.R - R script to merge data files, transform & tidy data, generate & output summary data file.
 
